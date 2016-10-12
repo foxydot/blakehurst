@@ -1,0 +1,92 @@
+
+//main: style.less
+
+/*
+Site Footer
+---------------------------------------------------------------------------------------------------- */
+
+@import 'lesshat';
+@import 'mixins';
+
+.site-footer{
+  background-color: @white;
+  color: @dkgrey;
+  .customheader(1.3);
+  text-align: center;
+  padding: 2rem;
+  a {
+    color: @dkgrey;
+    &:hover{
+      color: fade(@dkgrey,80%);
+    }
+  }
+  .wrap{
+    position: relative;
+    .social, .footer-menu{
+      display: inline-block;
+    }
+    p {
+      margin-bottom: 0;
+    }
+    div.icons{
+      display: inline-block;
+      position: relative;
+      i.icon{
+        display: inline-block;
+        height: 15px;
+        width: 20px;
+        margin: 0 4px;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: contain;
+        font-size: 18px;
+        font-weight: 700;
+      }
+      i.icon-equal-housing{
+        background-image:url(../img/Equal-Housing-new2-blk.png);
+        height: 25px;
+        top: .3em;
+        position: relative;
+      }
+      i.logo{
+        height: 40px;
+        position: relative;
+        top: 12px;
+        display: inline-block;
+        margin: 0 4px;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: contain;
+      }
+      i.logo-leed{
+        width: 40px;
+        background-image: url(../img/logo-leed-black40.png);
+      }
+      i.logo-lcs{
+        background-image: url("../img/logo-lcs-new-blk.png");
+        background-position: right center;
+        font-style: normal;
+        line-height: 3;
+        max-height: 30px;
+        text-align: left;
+        top: 7px;
+        width: 290px;
+      }
+    }
+    .backtotop{
+      position: absolute;
+      right: 0;
+      top: -2px;
+      background-color: @white;
+      border-radius: 0 0 20% 20%;
+      height: 2.4rem;
+      width: 2.4rem;
+      text-align: center;
+      a{
+        color: @blue;
+        font-size: 2em;
+        line-height: 1;
+      }
+    }
+  }
+}
