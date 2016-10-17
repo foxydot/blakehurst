@@ -8179,7 +8179,7 @@ Site Footer
 .sectioned-page-wrapper .section .section-body .wrap a,
 .sectioned-page-wrapper .section .section-body .wrap a:link,
 .sectioned-page-wrapper .section .section-body .wrap a:visited {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .sectioned-page-wrapper .section .section-body:after {
   content: ".";

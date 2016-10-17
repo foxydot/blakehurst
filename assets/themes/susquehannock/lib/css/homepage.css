@@ -275,11 +275,6 @@ nav.homepage-top .menu li.lifestyle {
 .sectioned-page-wrapper .section.section-lifestyle .button {
   margin: 12px auto;
 }
-.sectioned-page-wrapper .section.section-lifestyle a,
-.sectioned-page-wrapper .section.section-lifestyle a:link,
-.sectioned-page-wrapper .section.section-lifestyle a:visited {
-  text-decoration: none;
-}
 .sectioned-page-wrapper .section.section-programs {
   color: #ffffff;
   padding: 8rem 0;
@@ -299,11 +294,6 @@ nav.homepage-top .menu li.lifestyle {
 .sectioned-page-wrapper .section.section-programs hr {
   border-top: 3px solid #adc956;
   width: 100px;
-}
-.sectioned-page-wrapper .section.section-programs a,
-.sectioned-page-wrapper .section.section-programs a:link,
-.sectioned-page-wrapper .section.section-programs a:visited {
-  text-decoration: none;
 }
 @media only screen and (max-width: 980px) {
   nav.homepage-top .menu li a {
