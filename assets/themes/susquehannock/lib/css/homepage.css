@@ -132,7 +132,8 @@ nav.homepage-top .menu li.lifestyle {
   background-image: -moz-linear-gradient(left, #e3e2e0 0%, #e3e2e0 49.9%, #592350 50%, #592350 100%);
   background-image: -o-linear-gradient(left, #e3e2e0 0%, #e3e2e0 49.9%, #592350 50%, #592350 100%);
   background-image: linear-gradient(to right, #e3e2e0 0%, #e3e2e0 49.9%, #592350 50%, #592350 100%);
-  border-bottom: 6px solid #592350;
+  height: 600px;
+  padding-top: 50px;
 }
 .sectioned-page-wrapper .section.section-forms .section-body .wrap {
   padding: 0;
