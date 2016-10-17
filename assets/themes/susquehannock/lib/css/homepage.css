@@ -119,7 +119,7 @@ nav.homepage-top .menu li.lifestyle {
 }
 .site-inner hr {
   border-top: 3px solid #adc956;
-  width: 200px;
+  width: 100px;
   margin-left: 0;
 }
 .sectioned-page-wrapper .section {
@@ -287,6 +287,13 @@ nav.homepage-top .menu li.lifestyle {
 }
 .sectioned-page-wrapper .section.section-programs .button {
   margin: 12px auto;
+}
+.sectioned-page-wrapper .section.section-programs h1 {
+  color: #f1f2c0;
+}
+.sectioned-page-wrapper .section.section-programs hr {
+  border-top: 3px solid #adc956;
+  width: 100px;
 }
 @media only screen and (max-width: 980px) {
   nav.homepage-top .menu li a {
