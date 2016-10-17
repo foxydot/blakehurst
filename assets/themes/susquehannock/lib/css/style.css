@@ -8453,7 +8453,7 @@ Site Footer
 .text-sizer {
   display: block;
   z-index: 90;
-  color: #bdbba2;
+  color: #2d2d2d;
   text-align: right;
 }
 .text-sizer div {
@@ -8465,7 +8465,7 @@ Site Footer
 .text-sizer div i {
   margin-left: 0.5em;
   padding: 0.5em;
-  background: #bdbba2;
+  background: #2d2d2d;
   color: #ffffff;
   cursor: pointer;
 }
