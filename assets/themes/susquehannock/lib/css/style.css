@@ -7520,7 +7520,7 @@ article.entry {
 .entry-content a,
 .entry-content a:link,
 .entry-content a:visited {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .entry-content .gallery {
   margin-bottom: 1.6em;
