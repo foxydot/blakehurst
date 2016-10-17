@@ -215,7 +215,7 @@
 
 
 /* Buttons */
-.button(@background:@green,@color:@green) {
+.button(@background:#f1f2c0,@color:@dkgrey) {
   padding: 6px 24px;
   .customsanserif;
   color: @color;
@@ -223,15 +223,14 @@
   font-weight: 700;
   text-transform: uppercase;
   display: table;
-  margin: 12px auto;
   text-decoration: none;
-  background-color: fade(@background,0%);
+  background-color: @background;
   border: 2px solid @color;
   border-radius: 6px;
 }
 
 
-.button-hover(@background:@green,@color:@green) {
+.button-hover(@background:#f1f2c0,@color:@dkgrey) {
   .button(@background,@color);
   background-color: fade(@background,40%);
 }
