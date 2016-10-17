@@ -7915,7 +7915,7 @@ Footer Widgets
   color: #ffffff;
 }
 .footer-widgets a:hover {
-  color: #e3e2e0;
+  color: #adc956;
 }
 .footer-widgets .widget {
   margin: 2rem auto;
@@ -8008,13 +8008,13 @@ Footer Widgets
   text-align: left;
 }
 .footer-widgets .widget.widget_nav_menu ul.menu {
-  width: 75%;
+  width: 90%;
   margin: 0 auto;
-  -moz-column-count: 3;
+  -moz-column-count: 4;
   -moz-column-gap: 30px;
-  -webkit-column-count: 3;
+  -webkit-column-count: 4;
   -webkit-column-gap: 30px;
-  column-count: 3;
+  column-count: 4;
   column-gap: 30px;
 }
 .footer-widgets .widget.widget_nav_menu ul.menu > li {
