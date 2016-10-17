@@ -122,6 +122,9 @@ nav.homepage-top .menu li.lifestyle {
   width: 100px;
   margin-left: 0;
 }
+.site-inner h2 {
+  color: #592350;
+}
 .sectioned-page-wrapper .section {
   text-align: center;
   background-size: cover;
@@ -271,9 +274,6 @@ nav.homepage-top .menu li.lifestyle {
 }
 .sectioned-page-wrapper .section.section-lifestyle .section-title h3 {
   color: #2d2d2d;
-}
-.sectioned-page-wrapper .section.section-lifestyle h2 {
-  color: #592350;
 }
 .sectioned-page-wrapper .section.section-lifestyle .button {
   margin: 12px auto;
