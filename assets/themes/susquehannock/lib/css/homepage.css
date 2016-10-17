@@ -117,6 +117,11 @@ nav.homepage-top .menu li.lifestyle {
 .site-inner .button:hover {
   width: auto;
 }
+.site-inner hr {
+  border-top: 3px solid #adc956;
+  width: 200px;
+  margin-left: 0;
+}
 .sectioned-page-wrapper .section {
   text-align: center;
   background-size: cover;
