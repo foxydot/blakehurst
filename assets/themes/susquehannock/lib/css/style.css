@@ -7280,7 +7280,7 @@ Site Navigation
   font-size: 14px;
   font-size: 1.4rem;
   line-height: 1.625;
-  background: #787746;
+  background: #adc956;
   z-index: 800;
 }
 .nav-primary li.menu-item {
@@ -7299,11 +7299,11 @@ Site Navigation
   padding-right: 0;
 }
 .nav-primary li.menu-item .sub-menu {
-  background-color: #787746;
+  background-color: #adc956;
   margin-top: 0px;
 }
 .nav-primary li.menu-item .sub-menu li.menu-item {
-  background-color: #787746;
+  background-color: #adc956;
   padding: 0 2rem;
   width: 100%;
   position: relative;
@@ -7326,7 +7326,7 @@ Site Navigation
   background-color: #b2b093;
 }
 .nav-primary li.menu-item .sub-menu li:hover > a {
-  color: #787746;
+  color: #ffffff;
   text-decoration: none;
 }
 .nav-primary li:hover a,

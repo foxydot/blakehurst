@@ -1,6 +1,8 @@
 /*
 Site Navigation
 ---------------------------------------------------------------------------------------------------- */
+@import 'mixins';
+
 .genesis-nav-menu {
   clear: both;
   .customheader();
@@ -113,7 +115,7 @@ Site Navigation
 
 .nav-primary {
   .customheader(1.4);
-  background: @green;
+  background: @lime;
   z-index: 800;
   li.menu-item{
     padding: 0 1.6rem;
@@ -130,10 +132,10 @@ Site Navigation
       padding-right: 0;
     }
     .sub-menu{
-      background-color: @green;
+      background-color: @lime;
       margin-top: 0px;
       li.menu-item{
-        background-color: @green;
+        background-color: @lime;
         padding: 0 2rem;
         width: 100%;
         position: relative;
@@ -155,7 +157,7 @@ Site Navigation
       li:hover{
         background-color: darken(@ltgreen,5%);
         &>a{
-          color: @green;
+          color: @white;
           text-decoration: none;
         }
       }
