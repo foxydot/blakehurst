@@ -32,7 +32,7 @@
   display: table;
   text-decoration: none;
   background-color: #f1f2c0;
-  border: 2px solid #2d2d2d;
+  border: 0px solid #2d2d2d;
   border-radius: 6px;
   background-color: rgba(241, 242, 192, 0.4);
 }
@@ -214,7 +214,7 @@ nav.homepage-top .menu li.lifestyle {
   display: table;
   text-decoration: none;
   background-color: #ffffff;
-  border: 2px solid #ffffff;
+  border: 0px solid #ffffff;
   border-radius: 6px;
   font-size: 14px;
 }
@@ -252,7 +252,7 @@ nav.homepage-top .menu li.lifestyle {
   text-transform: uppercase;
   display: table;
   text-decoration: none;
-  border: 2px solid #787746;
+  border: 0px solid #787746;
   border-radius: 6px;
   background-color: #bdbba2;
   font-size: 14px;

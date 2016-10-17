@@ -6299,7 +6299,7 @@ you can use the generic selector below, but it's slower:
   display: table;
   text-decoration: none;
   background-color: #f1f2c0;
-  border: 2px solid #2d2d2d;
+  border: 0px solid #2d2d2d;
   border-radius: 6px;
   background-color: rgba(241, 242, 192, 0.4);
 }
@@ -6527,7 +6527,7 @@ input[type="submit"],
   display: table;
   text-decoration: none;
   background-color: #f1f2c0;
-  border: 2px solid #2d2d2d;
+  border: 0px solid #2d2d2d;
   border-radius: 6px;
   -webkit-transition: all 0.1s ease-in-out;
   -moz-transition: all 0.1s ease-in-out;
@@ -6554,7 +6554,7 @@ input:hover[type="submit"],
   display: table;
   text-decoration: none;
   background-color: #f1f2c0;
-  border: 2px solid #2d2d2d;
+  border: 0px solid #2d2d2d;
   border-radius: 6px;
   background-color: rgba(241, 242, 192, 0.4);
 }
@@ -6987,7 +6987,7 @@ img#wpstats {
   display: table;
   text-decoration: none;
   background-color: #f1f2c0;
-  border: 2px solid #2d2d2d;
+  border: 0px solid #2d2d2d;
   border-radius: 6px;
   -webkit-transition: all 0.1s ease-in-out;
   -moz-transition: all 0.1s ease-in-out;
@@ -7866,7 +7866,7 @@ Sidebars
   display: table;
   text-decoration: none;
   background-color: #f1f2c0;
-  border: 2px solid #2d2d2d;
+  border: 0px solid #2d2d2d;
   border-radius: 6px;
   -webkit-transition: all 0.1s ease-in-out;
   -moz-transition: all 0.1s ease-in-out;
@@ -8446,7 +8446,7 @@ Site Footer
   text-transform: uppercase;
   display: table;
   text-decoration: none;
-  border: 2px solid #787746;
+  border: 0px solid #787746;
   border-radius: 6px;
   background-color: #bdbba2;
   font-size: 14px;
