@@ -260,7 +260,6 @@ nav.homepage-top .menu li.lifestyle {
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
-  display: table;
   text-decoration: none;
   border: 0px solid #787746;
   border-radius: 6px;
@@ -268,6 +267,7 @@ nav.homepage-top .menu li.lifestyle {
   font-size: 14px;
   max-width: 280px;
   width: 100%;
+  display: table;
   margin-left: auto;
   margin-right: auto;
 }
