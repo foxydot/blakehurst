@@ -188,4 +188,13 @@ img#wpstats {
   padding: inherit;
   text-align: inherit;
 }
+.susquehannock .jp-carousel-overlay {
+  opacity: 0.8;
+  background-image: url('../img/overlay.png') !important;
+  background-repeat: repeat !important;
+  background-color: transparent !important;
+}
+.susquehannock .jp-carousel-slide img {
+  border: 6px #2d2d2d solid !important;
+}
 /*# sourceMappingURL=plugins.css.map */
