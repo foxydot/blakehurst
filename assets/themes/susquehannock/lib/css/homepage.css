@@ -48,7 +48,7 @@
 .pre-header {
   min-height: 170px;
   padding: 100px 0;
-  background-image: url(../img/blakehurst-hero.png);
+  background-image: url(../img/blakehurst-hero-2.jpg);
   background-position: center 75%;
   background-size: cover;
   margin-bottom: -163px;
@@ -71,7 +71,7 @@
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 30%;
-  background-image: url(../img/blakehurst-logo.png);
+  background-image: url(../img/Blakehurst-logo-4C.png);
 }
 .site-header {
   opacity: 0;
