@@ -49,7 +49,7 @@
   min-height: 170px;
   padding: 100px 0;
   background-image: url(../img/homepage_blakehurst_2.png);
-  background-position: center top;
+  background-position: center bottom;
   background-size: cover;
   margin-bottom: -163px;
 }
@@ -72,7 +72,7 @@
   background-repeat: no-repeat;
   background-position: left;
   background-size: 30%;
-  background-image: url(../img/Blakehurst-logo-4C.png);
+  background-image: url(../img/Blakehurst-logo.png);
   position: relative;
   top: -6.5rem;
 }
