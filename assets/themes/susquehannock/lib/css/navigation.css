@@ -194,10 +194,10 @@ Site Navigation
   border: 0;
 }
 .nav-primary li.menu-item .sub-menu li:hover {
-  background-color: #a4c343;
+  background-color: #e3e2e0;
 }
 .nav-primary li.menu-item .sub-menu li:hover > a {
-  color: #ffffff;
+  color: #2d2d2d;
   text-decoration: none;
 }
 .nav-primary li:hover a,
