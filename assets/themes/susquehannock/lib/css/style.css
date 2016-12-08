@@ -7243,6 +7243,8 @@ Site Navigation
 }
 .genesis-nav-menu .menu-item:hover {
   position: static;
+  background-color: #e3e2e0;
+  color: #2d2d2d;
 }
 .genesis-nav-menu .menu-item:hover > .sub-menu {
   left: auto;
