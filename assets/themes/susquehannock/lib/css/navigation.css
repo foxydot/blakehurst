@@ -75,6 +75,8 @@ Site Navigation
 .genesis-nav-menu .menu-item a:hover,
 .genesis-nav-menu .separator a:hover {
   text-decoration: none;
+  background-color: #e3e2e0;
+  color: #2d2d2d;
 }
 .genesis-nav-menu .sub-menu {
   left: -9999px;
