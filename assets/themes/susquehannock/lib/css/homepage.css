@@ -242,7 +242,7 @@ nav.homepage-top .menu li.lifestyle {
   background-size: 50px auto;
   background-image: url(../img/icon-calculator.png);
   padding-left: 55px;
-  color: rgba(255, 255, 255, 0.5);
+  color: #ffffff;
   font-size: 3rem;
   line-height: 1;
   max-width: 280px;
@@ -261,12 +261,12 @@ nav.homepage-top .menu li.lifestyle {
   font-size: 16px;
   font-size: 1.6rem;
   line-height: 1.625;
-  color: #787746;
+  color: #2d2d2d;
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: none;
-  border: 0px solid #787746;
+  border: 0px solid #2d2d2d;
   border-radius: 6px;
   background-color: #f1f2c0;
   font-size: 14px;
@@ -275,6 +275,8 @@ nav.homepage-top .menu li.lifestyle {
   display: table;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 12px;
+  margin-bottom: 12px;
 }
 .sectioned-page-wrapper .section.section-lifestyle {
   padding: 8rem 0;
