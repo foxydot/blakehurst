@@ -39,8 +39,11 @@ function msdlab_alter_loop_params($query){
 }
 /*** HEADER ***/
 function msdlab_fix_ie_compatibility_mode(){
+    echo('<meta name="format-detection" content="telephone=yes">
+    ');
     if (isset($_SERVER['HTTP_USER_AGENT']) && (strpos($_SERVER['HTTP_USER_AGENT'], 'MSIE') !== false))
-    echo('<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>');
+    echo('<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    ');
 }
 /**
  * Add apple touch icons
